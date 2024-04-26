@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Criar Curso";
+}
+<div class="container">
+    <h2>Criar Curso</h2>
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label for="nome">Nome do Curso:</label>
+            <input type="text" class="form-control" id="nome" name="nome" placeholder="Digite o nome do curso" required>
+        </div>
+        <div class="form-group">
+            <label for="cargaHoraria">Carga Horária:</label>
+            <input type="number" class="form-control" id="cargaHoraria" name="cargaHoraria" placeholder="Digite a carga horária" step="0.01" required>
+        </div>
+        <div class="form-group">
+            <label for="codigo">Código:</label>
+            <input type="text" class="form-control" id="codigo" name="codigo" placeholder="Digite o código do curso" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    </form>
+</div>

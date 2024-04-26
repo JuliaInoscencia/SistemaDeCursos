@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Alua02ExercicioControleCursos.props" />
+</Project>

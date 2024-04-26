@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|c:\\users\\julia.dos.santos\\source\\repos\\controlecursos\\alua02exerciciocontrolecursos\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|solutionrelative:alua02exerciciocontrolecursos\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|c:\\users\\julia.dos.santos\\source\\repos\\controlecursos\\alua02exerciciocontrolecursos\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|solutionrelative:alua02exerciciocontrolecursos\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|c:\\users\\julia.dos.santos\\source\\repos\\controlecursos\\alua02exerciciocontrolecursos\\views\\curso\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|solutionrelative:alua02exerciciocontrolecursos\\views\\curso\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|c:\\users\\julia.dos.santos\\source\\repos\\controlecursos\\alua02exerciciocontrolecursos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|solutionrelative:alua02exerciciocontrolecursos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|c:\\users\\julia.dos.santos\\source\\repos\\controlecursos\\alua02exerciciocontrolecursos\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|solutionrelative:alua02exerciciocontrolecursos\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|c:\\users\\julia.dos.santos\\source\\repos\\controlecursos\\alua02exerciciocontrolecursos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|solutionrelative:alua02exerciciocontrolecursos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|c:\\users\\julia.dos.santos\\source\\repos\\controlecursos\\alua02exerciciocontrolecursos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70895A94-7144-4818-970E-A86EF3909292}|Alua02ExercicioControleCursos\\Alua02ExercicioControleCursos.csproj|solutionrelative:alua02exerciciocontrolecursos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Views\\Curso\\Create.cshtml",
+              "RelativeDocumentMoniker": "Alua02ExercicioControleCursos\\Views\\Curso\\Create.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Views\\Curso\\Create.cshtml",
+              "RelativeToolTip": "Alua02ExercicioControleCursos\\Views\\Curso\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:26:34.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alua02ExercicioControleCursos\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "Alua02ExercicioControleCursos\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:25:22.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "Alua02ExercicioControleCursos\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "Alua02ExercicioControleCursos\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:24:14.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "Alua02ExercicioControleCursos\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "Alua02ExercicioControleCursos\\Controllers\\CursoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:23:35.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Alua02ExercicioControleCursos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Alua02ExercicioControleCursos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:30:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Program.cs",
+              "RelativeDocumentMoniker": "Alua02ExercicioControleCursos\\Program.cs",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Program.cs",
+              "RelativeToolTip": "Alua02ExercicioControleCursos\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:26:47.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alua02ExercicioControleCursos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\ControleCursos\\Alua02ExercicioControleCursos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Alua02ExercicioControleCursos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:33:26.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
